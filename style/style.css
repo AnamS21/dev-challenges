@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+   
+  }
+  
+  h1   {
+    margin: 20;
+    width: 70;
+    padding: 15px;
+    text-align: center;
+    font-size: 72px;
+    color: #FFF;
+    background-color: #281B2D;
+    border: #FFF;
+    }
+
+    h2{
+      margin: 20;
+    width: 70;
+    padding: 15px;
+    text-align: center;
+    font-size: 48px;
+    color: #FCD801;
+    background-color: #281B2D;
+    border-bottom: 5px solid #00C54C;
+  
+    } 
+    .container{
+      width: 1000px;
+      text-align: center;
+    }
